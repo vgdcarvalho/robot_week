@@ -18,3 +18,8 @@ Alert Should Be
     [Arguments]     ${alert_arg}
 
     Get Text                    css=.is-danger .message-body    ==      ${alert_arg}
+
+Login
+    Open Login Page
+    Login With                  papito@parodify.com     pwd123
+    Logout Button Should be visible

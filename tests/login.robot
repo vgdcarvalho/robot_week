@@ -1,11 +1,9 @@
 ***Settings***
 Documentation   Testes da página login
 
-Library         Browser
+Resource        ../resources/base.robot
 
-Resource        resources/login_actions.robot
-
-# Gncho pra tirar screenshot sempre q acabar um teste
+# Gancho pra tirar screenshot sempre q acabar um teste
 Test Teardown   Take Screenshot
 
 ***Test Cases***
@@ -87,43 +85,32 @@ Email e senha não informados
 
 # Usando novas keywords
 Login com sucesso - New Keyword
+    [tags]      smoke
     Open Login Page
-
     Login With                  papito@parodify.com     pwd123
-
-    Wait For Elements State     a[href$=sign_out]   visible     10
+    Logout Button Should be visible
 
 Login incorreto - New Keyword
     Open Login Page
-   
     Login With                  papito@parodify.com     123456
-
     Alert Should Be             Opps! Dados de acesso incorretos!
 
 Email incorreto - New Keyword
     Open Login Page
-   
     Login With                  test@test.com     123456
-
     Alert Should Be             Opps! Dados de acesso incorretos!
 
 Email não informado - New Keyword
     Open Login Page
-   
     Login With                  ${EMPTY}     123456
-
     Alert Should Be              Opps! Dados de acesso incorretos!
 
 Senha não informada - New Keyword
     Open Login Page
-   
     Login With                  papito@parodify.com     ${EMPTY}
-
     Alert Should Be             Opps! Dados de acesso incorretos!
 
 Email e senha não informados - New Keyword
     Open Login Page
-   
     Login With                  ${EMPTY}     ${EMPTY}
-
     Alert Should Be             Opps! Dados de acesso incorretos!
