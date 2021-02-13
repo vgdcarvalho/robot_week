@@ -5,7 +5,8 @@ Documentation       Ações da página de login
 
 ***Keywords***
 Open Login Page
-    Open Browser                http://parodify.herokuapp.com/users/sign_in     chromium
+    New Browser         chromium        true
+    New Page            http://parodify.herokuapp.com/users/sign_in     
 
 Login With
     [Arguments]     ${email_arg}    ${pass_arg}

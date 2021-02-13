@@ -1,92 +1,181 @@
-{"level":30,"time":"2021-02-11T19:43:41.693Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Listening on 52063"}
-{"level":30,"time":"2021-02-11T19:43:42.342Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
-{"level":30,"time":"2021-02-11T19:43:42.578Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
-{"level":30,"time":"2021-02-11T19:43:42.579Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
-{"level":30,"time":"2021-02-11T19:43:47.380Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.407Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.438Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.474Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.500Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.534Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.560Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.593Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.624Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.654Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.685Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.717Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.748Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.779Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.817Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.841Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.875Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.904Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.939Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.971Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:47.999Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:48.030Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:48.062Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:48.094Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-02-11T19:43:48.134Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.163Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.196Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.228Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.258Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.291Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.325Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.365Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.399Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.430Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.464Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.493Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.526Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.565Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.593Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.621Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.653Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.687Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.716Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.749Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.792Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.826Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.859Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.892Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.922Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.954Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:51.987Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:52.018Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-02-11T19:43:52.050Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.129Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.161Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.194Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.232Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.269Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.300Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.331Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.364Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.394Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.425Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.457Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.487Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.517Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.552Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.581Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.614Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.646Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.680Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.711Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.743Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.774Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.805Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.840Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.866Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.898Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.930Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:52.962Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
-{"level":30,"time":"2021-02-11T19:43:53.028Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Músicas"}
-{"level":30,"time":"2021-02-11T19:43:53.134Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Músicas"}
-{"level":30,"time":"2021-02-11T19:44:03.536Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
-{"level":30,"time":"2021-02-11T19:44:03.536Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
-{"level":30,"time":"2021-02-11T19:44:03.536Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
-{"level":30,"time":"2021-02-11T19:44:03.562Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
-{"level":30,"time":"2021-02-11T19:44:03.562Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
-{"level":30,"time":"2021-02-11T19:44:03.562Z","pid":13452,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:52:50.005Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Listening on 62516"}
+{"level":30,"time":"2021-02-12T23:52:50.607Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:52:50.729Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:52:50.729Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:52:55.735Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element label[for=user_email] containing Email"}
+{"level":30,"time":"2021-02-12T23:52:56.136Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:52:56.136Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:52:56.136Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:52:56.157Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:52:56.157Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:52:56.157Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:52:56.683Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:52:56.871Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:52:56.871Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:00.062Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element label[for=user_email] containing Email"}
+{"level":30,"time":"2021-02-12T23:53:00.555Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:00.555Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:00.555Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:00.583Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:00.583Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:00.583Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:01.095Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:01.263Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:53:01.264Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:05.900Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:05.900Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:05.900Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:05.931Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:05.931Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:05.931Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:05.999Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:06.156Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:53:06.156Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:13.500Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:13.500Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:13.500Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:13.525Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:13.525Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:13.525Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:14.266Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:14.595Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:53:14.595Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:18.844Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-12T23:53:19.467Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:19.467Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:19.467Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:19.495Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:19.495Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:19.495Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:20.201Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:20.474Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:53:20.474Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:24.531Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-12T23:53:25.149Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:25.149Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:25.149Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:25.190Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:25.191Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:25.191Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:26.080Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:26.320Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:53:26.320Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:30.487Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-12T23:53:31.118Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:31.118Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:31.118Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:31.177Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:31.177Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:31.177Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:31.941Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:32.228Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:53:32.228Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:36.150Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-12T23:53:36.787Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:36.787Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:36.787Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:36.849Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:36.849Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:36.849Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:37.649Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:37.952Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:53:37.952Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:42.287Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-12T23:53:42.968Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:42.968Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:42.968Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:43.014Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:43.014Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:43.014Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:43.630Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:43.765Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:53:43.765Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:47.762Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:47.762Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:47.762Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:47.789Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:47.789Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:47.789Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:48.346Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:48.468Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:53:48.468Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:52.111Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-12T23:53:52.586Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:52.586Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:52.586Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:52.608Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:52.608Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:52.609Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:53.071Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:53.188Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:53:53.189Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:56.349Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-12T23:53:56.796Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:56.796Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:56.796Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:56.819Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:56.819Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:53:56.819Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:53:57.251Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:53:57.390Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:53:57.390Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:54:00.593Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-12T23:54:01.050Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:54:01.050Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:54:01.050Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:54:01.074Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:54:01.074Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:54:01.074Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:54:01.587Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:54:01.733Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:54:01.733Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:54:04.666Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-12T23:54:05.125Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:54:05.125Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:54:05.125Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:54:05.147Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:54:05.147Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:54:05.147Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:54:05.653Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:54:05.761Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:54:05.761Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:54:08.571Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-12T23:54:09.051Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:54:09.052Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:54:09.052Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:54:09.078Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:54:09.078Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:54:09.079Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:54:09.569Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:54:09.687Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-12T23:54:09.687Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:54:12.970Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-12T23:54:12.999Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-12T23:54:13.031Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-12T23:54:13.063Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-12T23:54:13.092Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-12T23:54:13.123Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-12T23:54:13.157Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-12T23:54:13.189Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-12T23:54:13.224Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-12T23:54:13.269Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-12T23:54:13.306Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-12T23:54:13.344Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
+{"level":30,"time":"2021-02-12T23:54:13.920Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
+{"level":30,"time":"2021-02-12T23:54:13.961Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
+{"level":30,"time":"2021-02-12T23:54:13.996Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
+{"level":30,"time":"2021-02-12T23:54:14.034Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
+{"level":30,"time":"2021-02-12T23:54:14.075Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
+{"level":30,"time":"2021-02-12T23:54:14.111Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
+{"level":30,"time":"2021-02-12T23:54:14.151Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
+{"level":30,"time":"2021-02-12T23:54:14.183Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
+{"level":30,"time":"2021-02-12T23:54:14.214Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
+{"level":30,"time":"2021-02-12T23:54:14.255Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Buscar"}
+{"level":30,"time":"2021-02-12T23:54:14.301Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-12T23:54:14.921Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Retrieved dom property for element css=h2 containing Músicas"}
+{"level":30,"time":"2021-02-12T23:54:25.247Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:54:25.248Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:54:25.248Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
+{"level":30,"time":"2021-02-12T23:54:25.272Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active context"}
+{"level":30,"time":"2021-02-12T23:54:25.273Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-12T23:54:25.273Z","pid":4932,"hostname":"DESKTOP-F2KV5PH","msg":"Changed active page"}
